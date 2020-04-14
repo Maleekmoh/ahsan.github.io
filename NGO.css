@@ -1,0 +1,32 @@
+.bod{
+	margin: 70px auto;
+	font-family: sans-serif;
+	width: 83%;
+	color: white;
+
+}
+
+body{
+	background: url(img/IMG_1680.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 700px;
+    height: 700px;
+}
+
+h2 {
+	border: 5px solid black;
+
+}
+.mem-img img { 
+width:200px; height:200px; border-radius: 50%; margin-left: 300px;
+ }
+ .mem-text {
+ 	 color: white; font-size: 20px; margin-left: 200px; 
+ }
+ .Mem{
+ 	margin-left: 20px; color: white; text-align: center;
+ }
+ #con {
+ 	font-style: italic;
+ }
